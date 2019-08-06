@@ -1,5 +1,6 @@
 package com.sap.cloud.s4hana.examples.addressmgr;
 
+
 import com.google.common.base.Charsets;
 import com.google.common.base.Strings;
 import com.google.common.io.CharStreams;
