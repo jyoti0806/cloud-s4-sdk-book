@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Extending SAP S/4HANA - Source Code for the Book
 This GitHub repository hosts the sample source code for the book _Extending SAP S/4HANA. Side-by-Side Extensions with the SAP S/4HANA Cloud SDK_ available [from SAP Press](https://www.sap-press.com/extending-sap-s4hana_4655/). The book uses the Business Partner Address Manager sample application contained in this repository to explain how to build side-by-side extensions that extend SAP S/4HANA and SAP S/4HANA Cloud.
 
@@ -63,3 +64,7 @@ If you have found a bug in the _sample source code_ hosted in this repository, p
 ## License
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
 This file is licensed under the Apache Software License, v. 2 except as noted otherwise in the [LICENSE](LICENSE) file.
+=======
+# cloud-s4-sdk-book
+test for hum
+>>>>>>> refs/heads/master
